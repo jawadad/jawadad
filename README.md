@@ -11,5 +11,6 @@ In 2022, I received a scholarship that allowed me to study between Germany and t
 
 ---
 
-### 🌍 Connect with me
+## Let's connect!
+
 📫 [Email](alaaedeenjawad@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/jawad-alaaedeen/) 
