@@ -7,7 +7,9 @@ My expertise lies in utilizing computational methods for large-scale biological 
 
 Originally trained as a biologist, I’ve always been fascinated by the question: What separates a healthy state from a diseased one?
 
-In 2022, I received a scholarship that allowed me to study between Germany and the Netherlands, where I began integrating cutting-edge computational approaches into my work.  During this time, I had the opportunity to learn from multidisciplinary teams and contribute to projects involving novel therapy targets, including antibody–drug conjugates (ADCs) in cancer.  
+In 2022, I received a scholarship that allowed me to study between Germany and the Netherlands, where I began integrating cutting-edge computational approaches into my work.  During this time, I had the opportunity to learn from multidisciplinary teams and contribute to projects involving novel therapy targets, including antibody–drug conjugates (ADCs) in cancer.
+
+Note: This account only contains repos related to my personal or pure-academic work.
 
 ---
 
